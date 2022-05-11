@@ -3,7 +3,7 @@
 
 Dashboard uses plotly and dash. To run just clone this repo to your PyCharm app on your local computer as a new project.
 Modules will be autoamtically installed via 'requirements.txt'.
-After runing the programm the link: http://127.0.0.1:3221/ will be displayed. 
+After running the programm the link: http://127.0.0.1:3221/ will be displayed. 
 By entering this link into your browser the dashboard can be seen and interactively manipulated to explore the data.
 
 
