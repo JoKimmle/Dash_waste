@@ -10,5 +10,4 @@ and interactively manipulated to explore the data.
 
 
 
-<img width="1384" alt="image" src="https://user-images.githubusercontent.com/64778275/167891448-3bbe5660-e0fb-477e-978f-c6b318150c5f.png">
-
+<img width="1342" alt="image" src="https://user-images.githubusercontent.com/64778275/167891886-58288cb4-49fe-46e0-b71a-c66ce47cf182.png">
